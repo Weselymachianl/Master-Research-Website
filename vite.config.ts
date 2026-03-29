@@ -7,7 +7,7 @@ export default defineConfig(({ mode }) => {
   const env = loadEnv(mode, '.', '');
   return {
     // 👇 就是這一行！請把 'master-research-website' 換成你 GitHub 真正的 Repository 名稱
-    base: '/master-research-website/',
+    base: '/Master-Research-Website/',
 
     plugins: [react(), tailwindcss()],
     define: {
