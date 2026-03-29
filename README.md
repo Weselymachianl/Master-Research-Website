@@ -45,7 +45,7 @@ Bash
 npm run dev
 預設會運行在 http://localhost:3000
 
-📦 Deployment (部署方式)
+## 📦 Deployment (部署方式)
 本專案已設定 GitHub Actions。每當有新的 commit 推播 (push) 至 main 分支時，系統便會自動觸發打包流程，並將更新部署至 GitHub Pages。相關設定請參考 .github/workflows/deploy.yml。
 
 👨‍🔬 Author (作者)
