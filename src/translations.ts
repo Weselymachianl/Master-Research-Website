@@ -74,7 +74,7 @@ export const translations = {
       chartCaption: 'Interactive performance comparison of the proposed ConvCNP-D3QN algorithm against various DRL baselines under different system configurations.',
     },
     contact: {
-      name: 'Dr. Jane Doe',
+      name: 'Test Website',
       role: 'Lead Researcher, Wireless Communications Lab',
       bio: 'Specializing in next-generation wireless systems, machine learning for physical layer communications, and fluid antenna technologies. Her recent work focuses on bridging the gap between theoretical capacity limits and practical implementation constraints in 6G networks.',
       scholar: 'Google Scholar',
